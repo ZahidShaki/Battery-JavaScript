@@ -1,0 +1,14 @@
+
+
+button{
+    color: red;
+    background-color: black;
+    padding: 10px 20px;
+    border-color: red;
+    border-radius: 6px;
+    margin-right: 10px;;
+}
+.img{
+    height: 400px;
+    width: 400px;
+}
